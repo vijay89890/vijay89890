@@ -1,54 +1,46 @@
-# Hi there 👋, I'm Vijay Krishna  
+# Hey 👋, I'm Vijay Krishna  
 
-🚀 **Full Stack Developer | Aspiring AI Engineer | Tech Explorer**  
-
-I’m a Computer Science graduate passionate about building scalable web apps, exploring AI, and solving real-world problems with code. Currently, I’m sharpening my **Python** skills and diving into **Prompt Engineering** to better understand how AI models work.  
+🎯 **Full Stack Developer** | 🌱 Exploring **Python & Prompt Engineering** | 🤖 Passionate about **AI & Web3**  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🚀 Tech Stack  
 
-**Languages:**  
-C++, Python, Java, JavaScript, PHP, C, HTML, CSS  
 
-**Frameworks & Libraries:**  
-Django, Laravel, Next.js, React.js, Bootstrap  
 
-**Tools & Platforms:**  
-Node.js, MySQL, MongoDB, Linux, AWS  
-
-**Soft Skills:**  
-Problem-Solving | Teamwork | Adaptability | Project Management  
-
----
-
-## 📚 Certifications  
-
-- **React Basics** – Meta  
-- **Developing Front-End Apps with React** – IBM (Coursera)  
-- **Smart Contracts** – University at Buffalo  
-- **Blockchain Security** – University of California, Irvine  
-- **Empowering with Web3.js** – EDUCBA  
-- **Introduction to MongoDB** – MongoDB University  
-- **CyberSikshaa Certification**  
-- **Theory of Computation** – Udemy  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/django.png"/> 
+  <img src="https://img.icons8.com/fluency/48/000000/nextjs.png"/> 
+  <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> 
+</p>
 
 ---
 
-## 🏆 Achievements  
-
-- 📄 Published a research paper: **Blockchain Voting dApp** (2025)  
-- 🏅 Earned **Data Structures Badge** (DSA course)  
-
----
-
-## 🌱 Currently Exploring  
-- Learning **Python** for problem solving & backend development.  
-- Practicing **Prompt Engineering** to design better AI-driven apps.  
+## 📚 Certifications & Achievements  
+- 📄 **Research Paper Published**: Blockchain Voting dApp (2025)  
+- 🏅 **Data Structures Badge** – DSA course  
+- ✅ React (Meta) | React Apps (IBM) | Smart Contracts (Buffalo)  
+- 🔐 Blockchain Security (UCI) | MongoDB University | Web3.js  
 
 ---
 
-## 📬 Connect with Me  
-- 📧 Email: [vijaykrishna89890@gmail.com](mailto:vijaykrishna89890@gmail.com)  
-- 💼 LinkedIn: [Vijay Krishna](https://www.linkedin.com/in/Vijay-Krishna-248106231)  
-- 🖥️ GitHub: [vijay89890](https://github.com/vijay89890)  
+## 🌱 Currently Learning  
+🐍 Python Fundamentals  
+💡 Prompt Engineering (designing smarter AI prompts)  
+
+---
+
+## 📬 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vijay-Krishna-248106231)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijay89890)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaykrishna89890@gmail.com)  
+
+---
+
+
